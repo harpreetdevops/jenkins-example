@@ -1,12 +1,4 @@
-<<<<<<< HEAD:src/test/java/com/techprimers/testing/FizzBuzzTest.java
-<<<<<<< HEAD
-package com.harpeet.testing;
-=======
 package com.harpreet.testing;
->>>>>>> 35eb42e5bd29a66e211a8190bdf7739bbff7a46f
-=======
-package com.harpreet.testing;
->>>>>>> dev:src/test/java/com/harpreet/testing/FizzBuzzTest.java
 
 import org.junit.jupiter.api.*;
 
